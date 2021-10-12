@@ -8,3 +8,5 @@
 6. 对接支付宝、微信支付
 7. 秒杀处理
 8. 用户鉴权
+
+使用技术栈： springboot + springcloud + mybatisPlus + openstry + lua + kafka + apache druid + redis + mysql + rocketmq + elasticsearch + canal
